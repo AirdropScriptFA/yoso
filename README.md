@@ -34,6 +34,9 @@ npm install
 ```bash
 node yosocode.js
 ```
+```bash
+node index.js
+```
 
 ### Enter your invite codes
 
