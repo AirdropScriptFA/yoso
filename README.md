@@ -68,7 +68,7 @@ Before running the script, you need to update the cookie in `yosocode.js` with y
 
 ## 👤 Author
 
-**itsmesatyavir**
+**AirdropScriptFA**
 
 ---
 
